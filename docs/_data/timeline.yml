@@ -1,17 +1,17 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Laurea Magistrale in Ingegneria dell’Automazione (LM-25)
+  from: Ott 2023
+  to: Mar 2026
+  description: >-
+    Università degli Studi di Roma "Tor Vergata" <br>
+    **Voto:** 107/110 <br>
+    **Tesi:** Model predictive control tramite metodi data-driven e reti neurali <br>
+    *Relatore: Prof. Mario Sassano*
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Laurea Triennale in Ingegneria Informatica (L-8)
+  from: Set 2020
+  to: Ott 2023
+  description: >-
+    Università degli Studi di Roma "Tor Vergata" <br>
+    **Voto:** 110/110 <br>
+    **Tesi:** Automazione e robotica con laboratorio <br>
+    *Relatore: Prof. Francesco Martinelli*
