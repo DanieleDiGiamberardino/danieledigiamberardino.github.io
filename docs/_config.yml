@@ -1,11 +1,10 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Daniele Di Giamberardino
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
-baseurl             : "/portfolYOU"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : yousinix/portfolYOU      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+                      Neo-laureato Magistrale in Ingegneria dell'Automazione presso l'Università degli Studi di Roma 'Tor Vergata'.
+                      Appassionato di dinamica dei sistemi e controllo, sono alla ricerca di un tirocinio formativo per applicare le mie competenze su progetti industriali concreti.
+baseurl             : ""            # Lascia le virgolette vuote!
+repository          : danieledigiamberardino/danieledigiamberardino.github.io
 remote_theme        : yousinix/portfolYOU
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
@@ -25,17 +24,17 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
+  name              : Daniele Di Giamberardino
   image             : https://i.imgur.com/uyDNQnn.jpg
   behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : danieledigiambi@gmail.com
   facebook          : your_username
-  github            : your_username
+  github            : danieledigiamberardino
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
+  linkedin          : Daniele Di Giamberardino
   medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
