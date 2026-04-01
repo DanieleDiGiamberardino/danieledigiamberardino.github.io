@@ -23,4 +23,7 @@ Con l'imminente conclusione del mio percorso accademico, il mio obiettivo è ora
 
 <h2 class="mb-4 mt-5">Le Mie Competenze</h2>
 
-{% include about/programming-skills.yml %}
+<div class="row mt-5">
+  {% include about/skills.html title="Competenze Tecniche" source=site.data.programming-skills %}
+  {% include about/skills.html title="Lingue" source=site.data.other-skills %}
+</div>
