@@ -1,11 +1,16 @@
-- name: HTML5/CSS3
+- name: MATLAB & Simulink
   percentage: 90
-  color: danger
-
-- name: Go
-  percentage: 80
-  color:
-
 - name: Python
-  percentage: 70
-  color: secondary
+  percentage: 85
+- name: C
+  percentage: 80
+- name: ROS 2
+  percentage: 75
+- name: Fondamenti di Deep Learning
+  percentage: 65
+- name: Processing
+  percentage: 75
+- name: Sistemi Operativi e Reti
+  percentage: 80
+- name: Fondamenti CAD
+  percentage: 65
