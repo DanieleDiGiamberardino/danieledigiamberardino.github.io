@@ -5,7 +5,7 @@ description: Il mio percorso, la mia visione e le mie competenze
 weight: 1
 ---
 
-# Ciao, sono Daniele! 👋
+# Ciao, sono Daniele!
 
 Sono un **Ingegnere dell'Automazione** (Laurea Magistrale) e **Ingegnere Informatico** (Laurea Triennale) formatosi presso l'Università degli Studi di Roma "Tor Vergata". 
 
