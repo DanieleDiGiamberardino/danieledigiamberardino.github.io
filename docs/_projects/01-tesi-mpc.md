@@ -16,3 +16,9 @@ Per gestire dinamiche complesse e non lineari, ho affiancato la teoria del contr
 
 # Applicazioni Pratiche
 Questo approccio ibrido rappresenta lo stato dell'arte per l'Automazione Moderna. La soluzione sviluppata è pensata per essere scalabile e applicabile a progetti industriali concreti, dalla robotica avanzata alla gestione energetica di impianti complessi.
+# Documentazione
+Per maggiori dettagli sull'architettura di controllo e sui risultati ottenuti, è possibile consultare la documentazione completa del lavoro:
+
+[📄 Scarica il PDF della Tesi](../tesi-mpc-digiamberardino.pdf)
+
+[📊 Scarica la Presentazione PowerPoint](../presentazione-mpc.pptx)
