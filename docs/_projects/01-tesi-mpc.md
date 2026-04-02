@@ -1,7 +1,7 @@
 ---
 name: Model Predictive Control con Metodi Data-Driven e Reti Neurali
 tools: [MATLAB, Python, Deep Learning, Controllo Avanzato]
-image: ""
+image: ../mpc-vehicle-model.png
 description: Sviluppo di logiche di controllo predittivo ibride per l'ottimizzazione di sistemi dinamici complessi, unendo teoria del controllo e intelligenza artificiale.
 ---
 
