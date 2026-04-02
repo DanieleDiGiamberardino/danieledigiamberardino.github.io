@@ -32,7 +32,7 @@ description: Sviluppo da zero di reti neurali per la classificazione di dataset 
        <h5 class="text-muted">Risultati</h5>
        <p class="small text-muted mt-2 mb-3">Le configurazioni testate hanno dimostrato un'eccellente capacità di generalizzazione, mitigando l'overfitting al crescere della complessità della rete e mantenendo un'alta accuratezza sia sul Validation che sul Test set.</p>
        
-       <a href="#" class="btn btn-outline-primary btn-sm"><i class="fas fa-file-word mr-2"></i> Report Completo</a>
+       <a href=.../Relazione_Progetto_OBD.docx class="btn btn-outline-primary btn-sm"><i class="fas fa-file-word mr-2"></i> Report Completo</a>
     </div>
   </div>
 </div>
