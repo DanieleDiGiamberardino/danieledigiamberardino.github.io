@@ -1,15 +1,15 @@
 ---
 layout: page
-name: Controllo di Assetto (TVC) per Razzi Modello
+name: Controllo di assetto (TVC) per razzi modello
 tools: [MATLAB, Simulink, Controllo PID, Dinamica Aerospaziale, AI-Assisted]
 image: https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80
-description: "WORK IN PROGRESS: Progettazione e implementazione di un sistema di controllo ad anello chiuso (PID) per la stabilizzazione tramite Thrust Vector Control in Simulink."
+description: "WORK IN PROGRESS: Progettazione e implementazione di un sistema di controllo ad anello chiuso (PID) per la stabilizzazione tramite thrust vector control in simulink."
 ---
 
 <div class="row mt-5">
   
   <div class="col-md-7">
-    <h3 class="mb-4">Il Progetto e la Sfida (WIP) 🚀</h3>
+    <h3 class="mb-4">Il progetto e la sfida 🚀</h3>
     <p class="text-justify">
       La stabilizzazione di un razzo in volo è un classico problema di controllo del pendolo inverso, reso estremamente complesso dalle dinamiche aerospaziali e dalle repentine variazioni di massa. Questo progetto personale, attualmente in fase di sviluppo, punta a implementare il sistema di controllo per l'assetto di un razzo modello.
     </p>
