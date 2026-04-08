@@ -2,7 +2,7 @@
 layout: page
 name: Controllo di assetto (TVC) per razzi modello
 tools: [MATLAB, Simulink, Controllo PID, Dinamica Aerospaziale, AI-Assisted]
-image: https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80
+image: ../Simulink_Model_Razzo.png
 description: "WORK IN PROGRESS: Progettazione e implementazione di un sistema di controllo ad anello chiuso (PID) per la stabilizzazione tramite thrust vector control in simulink."
 ---
 
