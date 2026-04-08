@@ -25,7 +25,7 @@ description: Sviluppo di logiche di controllo predittivo ibride per l'ottimizzaz
 
     <h3 class="mt-5 mb-4">Applicazioni Pratiche</h3>
     <p class="text-justify">
-      Questo approccio ibrido rappresenta lo stato dell'arte per l'Automazione Moderna. La soluzione sviluppata è pensata per essere scalabile e applicabile a progetti industriali concreti, dalla robotica avanzata alla gestione energetica di impianti complessi.
+    La soluzione sviluppata è pensata per essere scalabile e applicabile a progetti industriali concreti, dovremmo però effettuare una pre-analisi per analizzare l'efficienza del controllo su un modello reale.
     </p>
   </div>
 
