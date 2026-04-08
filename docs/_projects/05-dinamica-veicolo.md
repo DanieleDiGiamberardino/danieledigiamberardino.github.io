@@ -32,7 +32,7 @@ description: Acquisizione sperimentale di dati telemetrici e modellazione in Sim
        <h5 class="text-muted">Esito dell'Analisi</h5>
        <p class="small text-muted mt-2 mb-3">L'analisi nel dominio del tempo e della frequenza ha confermato che il modello 2-DOF replica con estrema precisione i dati reali acquisiti su strada. Lo studio matematico ha inoltre validato la stabilità asintotica di entrambi i modelli.</p>
        
-       <a href="../Meccanica_delle_Vibrazioni.pdf" class="btn btn-outline-primary btn-sm"><i class="fas fa-file-pdf mr-2"></i> Scarica Presentazione</a>
+       <a href="../Meccanica_delle_Vibrazioni.pptx" class="btn btn-outline-primary btn-sm"><i class="fas fa-file-pdf mr-2"></i> Scarica Presentazione</a>
     </div>
   </div>
 </div>
