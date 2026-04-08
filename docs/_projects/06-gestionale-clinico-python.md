@@ -1,9 +1,9 @@
 ---
 layout: page
-name: Software Gestionale e Archiviazione Clinica (WIP)
+name: Software gestionale e archiviazione clinica (WIP)
 tools: [Python, CustomTkinter, OpenCV, SQLite, AI-Assisted Dev]
 image: https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80
-description: Sviluppo di un'applicazione desktop in Python per l'archiviazione strutturata di foto cliniche e la gestione dei pazienti in ambito odontoiatrico.
+description: Sviluppo di un'applicazione desktop in python per l'archiviazione strutturata di foto cliniche e la gestione dei pazienti in ambito odontoiatrico.
 ---
 
 <div class="row mt-5">
