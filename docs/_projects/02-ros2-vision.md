@@ -2,7 +2,7 @@
 layout: page
 name: Architettura e Interfacce Custom in ROS 2 per Videocamere PTZ
 tools: [ROS 2, Architettura Software, Custom Messages, Sensori]
-image: [https://images.unsplash.com/photo-1557597774-9d273605dfa9?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80](https://genieproducts.co.uk/app/uploads/2021/07/GAHD18IRPTZ-Web.png) 
+image: https://genieproducts.co.uk/app/uploads/2021/07/GAHD18IRPTZ-Web.png
 description: Progettazione dell'architettura ROS 2 e sviluppo di interfacce di comunicazione personalizzate per il controllo e l'acquisizione video da videocamere PTZ.
 ---
 
