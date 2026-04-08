@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Ottimizzazione per Big Data e Deep Learning
+name: Ottimizzazione per big data e deep learning
 tools: [MATLAB, Machine Learning, Ottimizzazione, Reti Neurali]
 image: https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80
 description: Sviluppo da zero di reti neurali per la classificazione di dataset complessi, con implementazione di algoritmi di ottimizzazione e cross-validation in MATLAB.
@@ -9,7 +9,7 @@ description: Sviluppo da zero di reti neurali per la classificazione di dataset 
 <div class="row mt-5">
   
   <div class="col-md-7">
-    <h3 class="mb-4">Il Progetto e i Dati</h3>
+    <h3 class="mb-4">Il Progetto e i dati</h3>
     <p class="text-justify">
       In questo progetto ci siamo concentrati sull'implementazione matematica e sull'ottimizzazione di <strong>Reti neurali</strong> da zero, applicate a problemi di classificazione binaria e multiclasse su dataset di grandi dimensioni (RNA e Shuttle).
     </p>
