@@ -7,7 +7,7 @@ description: Acquisizione sperimentale di dati telemetrici e modellazione in Sim
 ---
 
 <div class="row mt-5">
-  
+   
   <div class="col-md-7">
     <h3 class="mb-4">Il Progetto Sperimentale</h3>
     <p class="text-justify">
