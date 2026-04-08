@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Analisi Vibrazionale e Modellistica Automotive (Quarter-Car)
+name: Analisi vibrazionale e modellistica automotive (Quarter-Car)
 tools: [MATLAB, Simulink, Arduino, Dinamica del Veicolo]
 image: https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80
 description: Acquisizione sperimentale di dati telemetrici e modellazione in Simulink per lo studio delle vibrazioni verticali di un veicolo ibrido.
