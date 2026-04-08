@@ -25,7 +25,7 @@ description: "WORK IN PROGRESS: Progettazione e implementazione di un sistema di
   </div>
 
   <div class="col-md-5 mt-4 mt-md-0 text-center">
-    <img src="https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" alt="Rocket Launch" class="img-fluid rounded shadow-sm mb-4">
+    <img src= ../Razzo_Img.png  alt="Rocket Launch" class="img-fluid rounded shadow-sm mb-4">
     
     <div class="card shadow-sm border-0 bg-light p-4 text-center" style="border-left: 4px solid #ffc107 !important;">
        <i class="fas fa-tools fa-3x text-warning mb-3"></i>
