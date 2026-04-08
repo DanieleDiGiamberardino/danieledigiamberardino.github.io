@@ -11,16 +11,16 @@ description: Sviluppo da zero di reti neurali per la classificazione di dataset 
   <div class="col-md-7">
     <h3 class="mb-4">Il Progetto e i Dati</h3>
     <p class="text-justify">
-      Nell'ambito dell'analisi dei Big Data, l'applicazione "cieca" di algoritmi non è sufficiente. Questo progetto si è concentrato sull'implementazione matematica e sull'ottimizzazione di <strong>Reti Neurali</strong> da zero, applicate a problemi di classificazione binaria e multiclasse su dataset di grandi dimensioni (RNA e Shuttle).
+      In questo progetto ci siamo concentrati sull'implementazione matematica e sull'ottimizzazione di <strong>Reti neurali</strong> da zero, applicate a problemi di classificazione binaria e multiclasse su dataset di grandi dimensioni (RNA e Shuttle).
     </p>
 
-    <h3 class="mt-5 mb-4">Sviluppo in MATLAB e Architettura</h3>
-    <p>Invece di affidarmi a framework ad alto livello, ho sviluppato la pipeline di apprendimento scrivendo manualmente le funzioni core, tra cui:</p>
+    <h3 class="mt-5 mb-4">Sviluppo in MATLAB e architettura</h3>
+    <p>Abbiamo sviluppato la pipeline di apprendimento scrivendo manualmente le funzioni core, tra cui:</p>
     
     <ul class="list-group list-group-flush mb-4">
-      <li class="list-group-item bg-transparent border-0 pl-0"><i class="fas fa-brain text-primary mr-2"></i> <strong>Core Network:</strong> Implementazione di Forward e Back-propagation per il calcolo dei gradienti, con funzioni di attivazione ReLU e SoftMax.</li>
-      <li class="list-group-item bg-transparent border-0 pl-0"><i class="fas fa-chart-line text-primary mr-2"></i> <strong>Metodi di Ottimizzazione:</strong> Utilizzo dell'anti-gradiente come direzione di discesa e calcolo dinamico del passo di aggiornamento tramite il <strong>Metodo di Armijo</strong> per garantire la convergenza.</li>
-      <li class="list-group-item bg-transparent border-0 pl-0"><i class="fas fa-filter text-primary mr-2"></i> <strong>Tuning e Prevenzione Overfitting:</strong> Inizializzazione dei pesi con metodo <em>He</em>, applicazione della regolarizzazione L2 e procedure di Cross-Validation per ottimizzare il numero di layer e neuroni.</li>
+      <li class="list-group-item bg-transparent border-0 pl-0"><i class="fas fa-brain text-primary mr-2"></i> <strong>Core network:</strong> Implementazione di forward e back-propagation per il calcolo dei gradienti, con funzioni di attivazione ReLU e SoftMax.</li>
+      <li class="list-group-item bg-transparent border-0 pl-0"><i class="fas fa-chart-line text-primary mr-2"></i> <strong>Metodi di ottimizzazione:</strong> Utilizzo dell'anti-gradiente come direzione di discesa e calcolo dinamico del passo di aggiornamento tramite il <strong>Metodo di armijo</strong> per garantire la convergenza.</li>
+      <li class="list-group-item bg-transparent border-0 pl-0"><i class="fas fa-filter text-primary mr-2"></i> <strong>Tuning e prevenzione overfitting:</strong> Inizializzazione dei pesi con metodo <em>He</em>, applicazione della regolarizzazione L2 e procedure di cross-validation per ottimizzare il numero di layer e neuroni.</li>
     </ul>
   </div>
 
