@@ -15,11 +15,11 @@ description: Sviluppo di logiche di controllo predittivo ibride per l'ottimizzaz
     </p>
 
     <h3 class="mt-5 mb-4">Metodologia e Tecnologie</h3>
-    <p>Per gestire dinamiche complesse e non lineari, ho affiancato la teoria del controllo ottimo all'utilizzo di <strong>Reti Neurali</strong>. L'architettura sviluppata permette al sistema di:</p>
+    <p>Per gestire dinamiche complesse e non lineari, ho affiancato la teoria del controllo ottimo all'utilizzo di <strong>Reti neurali</strong>. L'architettura sviluppata permette al sistema di:</p>
     
     <ul class="list-group list-group-flush mb-4">
       <li class="list-group-item bg-transparent border-0 pl-0"><i class="fas fa-check-circle text-primary mr-2"></i> Apprendere il comportamento dinamico dell'impianto direttamente dai dati storici.</li>
-      <li class="list-group-item bg-transparent border-0 pl-0"><i class="fas fa-check-circle text-primary mr-2"></i> Effettuare previsioni accurate sull'evoluzione futura degli stati.</li>
+      <li class="list-group-item bg-transparent border-0 pl-0"><i class="fas fa-check-circle text-primary mr-2"></i> Poter ricostruire la funzione di costo associata al modello per il task d'inseguimento asintotico</li>
       <li class="list-group-item bg-transparent border-0 pl-0"><i class="fas fa-check-circle text-primary mr-2"></i> Calcolare l'azione di controllo ottima garantendo stabilità e rispetto dei vincoli.</li>
     </ul>
 
