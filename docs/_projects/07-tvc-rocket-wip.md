@@ -25,7 +25,12 @@ description: "WORK IN PROGRESS: Progettazione e implementazione di un sistema di
   </div>
 
   <div class="col-md-5 mt-4 mt-md-0 text-center">
-    <img src= "../Razzo_Img.png"  alt="Rocket Launch" class="img-fluid rounded shadow-sm mb-4">
+    <img src="../Razzo_Img.png" alt="Rocket Launch" class="img-fluid rounded shadow-sm mb-3">
+    
+    <video class="w-100 rounded shadow-sm mb-4" autoplay loop muted playsinline controls>
+      <source src="../rocket_fly_test.mp4" type="video/mp4">
+      Il tuo browser non supporta il tag video.
+    </video>
     
     <div class="card shadow-sm border-0 bg-light p-4 text-center" style="border-left: 4px solid #ffc107 !important;">
        <i class="fas fa-tools fa-3x text-warning mb-3"></i>
