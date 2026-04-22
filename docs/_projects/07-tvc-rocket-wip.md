@@ -7,7 +7,6 @@ description: "WORK IN PROGRESS: Progettazione e implementazione di un sistema di
 ---
 
 <div class="row mt-5">
-  
   <div class="col-md-7">
     <h3 class="mb-4">Il progetto e la sfida 🚀</h3>
     <p class="text-justify">
@@ -19,7 +18,7 @@ description: "WORK IN PROGRESS: Progettazione e implementazione di un sistema di
     
     <ul class="list-group list-group-flush mb-4">
       <li class="list-group-item bg-transparent border-0 pl-0"><i class="fas fa-rocket text-primary mr-2"></i> <strong>Dinamica: </strong> Sfruttamento del modello fisico implementato tramite Simscape che tiene conto di massa, momenti d'inerzia e risoluzione trigonometrica dei vettori di spinta.</li>
-      <li class="list-group-item bg-transparent border-0 pl-0"><i class="fas fa-project-diagram text-primary mr-2"></i> <strong>Sviluppo closed-loop:</strong> L'architettura di controllo è caratterizzata dall'uso di <strong> controllori PID indipendenti </strong> nello specifico utilizzo un blocco main in cui implemento tre PID control per definire la Fz_des, Fx_des e la Fy_des, questo mi permette di determinare a sua volta il Trust_Vector e gli angoli theta_des(pitch), psi_des(yaw) che vengono passati ad altri blocchi di controllo, i quali generano il gimbalangle_pitch/_yaw (In ogni blocco sono state implementate saturazioni coerenti con la fisica reale del razzo=<em></li>
+      <li class="list-group-item bg-transparent border-0 pl-0"><i class="fas fa-project-diagram text-primary mr-2"></i> <strong>Sviluppo closed-loop:</strong> L'architettura di controllo è caratterizzata dall'uso di <strong> controllori PID indipendenti </strong> nello specifico utilizzo un blocco main in cui implemento tre PID control per definire la Fz_des, Fx_des e la Fy_des, questo mi permette di determinare a sua volta il Trust_Vector e gli angoli theta_des(pitch), psi_des(yaw) che vengono passati ad altri blocchi di controllo, i quali generano il gimbalangle_pitch/_yaw (In ogni blocco sono state implementate saturazioni coerenti con la fisica reale del razzo).</li>
       <li class="list-group-item bg-transparent border-0 pl-0"><i class="fas fa-robot text-primary mr-2"></i> <strong>Planner Block:</strong> Utilizzo di un planner block per gestire il piano di volo basato sul polinomio quintico.</li>
     </ul>
   </div>
