@@ -11,15 +11,15 @@ description: "WORK IN PROGRESS: Progettazione e implementazione di un sistema di
   <div class="col-md-7">
     <h3 class="mb-4">Il progetto e la sfida 🚀</h3>
     <p class="text-justify">
-      La stabilizzazione di un razzo in volo è un classico problema di controllo, reso estremamente complesso dalle dinamiche aerospaziali e dalle repentine variazioni di massa. Questo progetto personale, attualmente in fase di sviluppo, punta a implementare il sistema di controllo per l'assetto di un modlelo di razzo (OpenRocket). 
+      La stabilizzazione di un razzo in volo è un classico problema di controllo, reso estremamente complesso dalle dinamiche aerospaziali e dalle repentine variazioni di massa. Questo progetto personale, attualmente in fase di sviluppo, punta a implementare il sistema di controllo per l'assetto di un modello di razzo (OpenRocket). 
     </p>
 
     <h3 class="mt-5 mb-4">Sviluppo e chiusura dell'anello</h3>
     <p>Partendo da un accurato modello fisico matematico <em>open-loop</em> (sviluppato e ispirato dalla community aerospaziale BPS.space), il mio lavoro si sta concentrando sulla progettazione della retroazione:</p>
     
     <ul class="list-group list-group-flush mb-4">
-      <li class="list-group-item bg-transparent border-0 pl-0"><i class="fas fa-rocket text-primary mr-2"></i> <strong>Dinamica 3-DOF:</strong> Sfruttamento del modello fisico che tiene conto di massa, momenti d'inerzia e risoluzione trigonometrica dei vettori di spinta.</li>
-      <li class="list-group-item bg-transparent border-0 pl-0"><i class="fas fa-project-diagram text-primary mr-2"></i> <strong>Sviluppo closed-loop:</strong> Progettazione dell'architettura di controllo tramite l'inserimento di <strong>due controllori PID indipendenti(Posizione Z,X e Pitch)</strong> per comandare dinamicamente il <em>Thrust vector control (TVC)</em> sui vari assi in base all'errore di assetto.</li>
+      <li class="list-group-item bg-transparent border-0 pl-0"><i class="fas fa-rocket text-primary mr-2"></i> <strong>Dinamica: </strong> Sfruttamento del modello fisico implementato tramite Simscape che tiene conto di massa, momenti d'inerzia e risoluzione trigonometrica dei vettori di spinta.</li>
+      <li class="list-group-item bg-transparent border-0 pl-0"><i class="fas fa-project-diagram text-primary mr-2"></i> <strong>Sviluppo closed-loop:</strong> L'architettura di controllo è caratterizzata dall'uso di <strong> controllori PID indipendenti </strong> nello specifico utilizzo un blocco main in cui implemento tre PID control per definire la Fz_des, Fx_des e la Fy_des, questo mi permette di determinare a sua volta il Trust_Vector e gli angoli theta_des(pitch), psi_des(yaw) che vengono passati ad altri blocchi di controllo, i quali generano il gimbalangle_pitch/_yaw (In ogni blocco sono state implementate saturazioni coerenti con la fisica reale del razzo=<em></li>
       <li class="list-group-item bg-transparent border-0 pl-0"><i class="fas fa-robot text-primary mr-2"></i> <strong>Planner Block:</strong> Utilizzo di un planner block per gestire il piano di volo basato sul polinomio quintico.</li>
     </ul>
   </div>
