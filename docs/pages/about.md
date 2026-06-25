@@ -13,7 +13,8 @@ Il mio percorso accademico mi ha permesso di unire solide basi di architetture s
 
 Oltre alla modellistica teorica, do grande importanza all'implementazione pratica: ho infatti sviluppato competenze nell'utilizzo di **ROS 2**, lavorando a progetti di integrazione tra hardware (videocamere) e logiche di controllo per la visione artificiale.
 
-Il mio obiettivo è ora lavorare all'interno di una realtà aziendale stimolante. Cerco l'opportunità di applicare sul campo gli strumenti appresi, lavorando allo sviluppo e all'ottimizzazione di sistemi complessi, robotici o industriali.
+Il mio obiettivo è lavorare in ambito **aerospace e difesa**, contribuendo allo sviluppo di sistemi di guida, navigazione e controllo ad alto impatto.
+
 
 ---
 
