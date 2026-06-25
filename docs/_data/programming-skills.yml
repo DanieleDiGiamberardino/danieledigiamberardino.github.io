@@ -7,7 +7,7 @@
 - name: C++
   percentage: 70
 - name: ROS 2
-  percentage: 75
+  percentage: 70
 - name: Fondamenti di Deep Learning
   percentage: 65
 - name: Processing
