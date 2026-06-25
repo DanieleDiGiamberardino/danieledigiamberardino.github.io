@@ -2,7 +2,7 @@
 layout: page
 name: Stabilizzazione Pendolo Inverso
 tools: [MATLAB, Arduino, C++, Controllo Classico]
-image: ../pendolo.jpg
+image: docs/pendulum.png
 description: Progettazione e implementazione fisica di un sistema di controllo ad anello chiuso per la stabilizzazione di un pendolo inverso tramite controllori di stato sintetizzati in MATLAB e implementati su hardware Arduino.
 ---
 
