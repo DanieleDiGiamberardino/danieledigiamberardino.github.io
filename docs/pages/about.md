@@ -11,7 +11,7 @@ Sono un **Ingegnere dell'Automazione** (Laurea Magistrale) e **Ingegnere Informa
 
 Il mio percorso accademico mi ha permesso di unire solide basi di architetture software con lo studio avanzato della dinamica dei sistemi. Durante il mio lavoro di tesi magistrale mi sono concentrato nel **Model Predictive Control (MPC)**, esplorando l'integrazione di metodi *data-driven* e **reti neurali**, unendo così la robustezza dell'ingegneria del controllo classico alle enormi potenzialità dell'intelligenza artificiale.
 
-Oltre alla modellistica teorica, do grande importanza all'implementazione pratica: ho infatti sviluppato competenze nell'utilizzo di **ROS 2**, lavorando a progetti di integrazione tra hardware (videocamere) e logiche di controllo per la visione artificiale.
+Oltre alla modellistica teorica, do grande importanza all'implementazione pratica: ho infatti realizzato fisicamente un sistema di controllo ad anello chiuso per la stabilizzazione di un pendolo inverso, progettando l'intera catena — dalla sintesi del controllore in MATLAB/Simulink fino all'implementazione hardware con microcontrollore Arduino.
 
 Il mio obiettivo è lavorare in ambito **aerospace e difesa**, contribuendo allo sviluppo di sistemi di guida, navigazione e controllo ad alto impatto.
 
