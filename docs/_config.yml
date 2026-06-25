@@ -1,7 +1,9 @@
 ### Site Settings ###
 title               : Daniele Di Giamberardino
 description         : >-
-                      Ingegnere dell'automazione specializzato in controlli predittivi (MPC), machine learning e modellistica dinamica. In questo spazio condivido i miei progetti pratici, dallo sviluppo di Digital Twin alla stabilizzazione aerospaziale. Sono alla ricerca di un'opportunità di inserimento in una realtà stimolante che mi permetta di poter crescere professionalmente.
+                      Sono un Automation Engineer focalizzato su GNC, controllo predittivo e Digital Twin, con una forte attrazione per i sistemi aerospace e robotici.
+                      I progetti che trovi qui nascono dalla convinzione che modellistica rigorosa e approcci data-driven non siano alternativi, ma complementari.
+                      Sto cercando un contesto stimolante dove continuare a costruire sistemi di controllo.
 complesse.baseurl             : ""            
 repository          : danieledigiamberardino/danieledigiamberardino.github.io
 remote_theme        : yousinix/portfolYOU
