@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : Daniele Di Giamberardino
 description         : >-
-                      Sono un Automation Engineer focalizzato su GNC, controllo predittivo e Digital Twin, con una forte attrazione per i sistemi aerospace e robotici.
-                      I progetti che trovi qui nascono dalla convinzione che modellistica rigorosa e approcci data-driven non siano alternativi, ma complementari.
-                      Sto cercando un contesto stimolante dove continuare a costruire sistemi di controllo.
+                      Sono un Automation Engineer focalizzato su GNC, controllo predittivo e Digital Twin, con una forte attrazione per i sistemi aerospace, missilistici e di difesa.
+                      I progetti che trovi qui nascono dalla convinzione che modellistica rigorosa e approcci data-driven non siano alternativi, ma complementari. 
+                      Sto cercando un contesto in cui progettare sistemi di guida e controllo per applicazioni ad alto impatto.
 complesse.baseurl             : ""            
 repository          : danieledigiamberardino/danieledigiamberardino.github.io
 remote_theme        : yousinix/portfolYOU
