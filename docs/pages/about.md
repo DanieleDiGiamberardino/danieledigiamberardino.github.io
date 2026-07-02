@@ -13,7 +13,7 @@ Il mio percorso accademico mi ha permesso di unire solide basi di architetture s
 
 Oltre alla modellistica teorica, do grande importanza all'implementazione pratica: ho infatti realizzato fisicamente un sistema di controllo ad anello chiuso per la stabilizzazione di un pendolo inverso, progettando l'intera catena — dalla sintesi del controllore in MATLAB/Simulink fino all'implementazione hardware con microcontrollore Arduino.
 
-Il mio obiettivo è lavorare in ambito **aerospace e difesa**, contribuendo allo sviluppo di sistemi di guida, navigazione e controllo ad alto impatto.
+Il mio obiettivo è lavorare in ambito **aerospace, automotive e difesa**, contribuendo allo sviluppo di sistemi di guida, navigazione e controllo ad alto impatto.
 
 
 ---
