@@ -1,0 +1,49 @@
+---
+layout: page
+name: Validazione Software-in-the-Loop (SIL) per Controllore LQG
+tools: [C, Linux (WSL), MATLAB/Simulink, GCC, Code Generation]
+image: ../sil_validation_plot.png
+description: Sviluppo di un framework di validazione SIL, disaccoppiando il codice generato in Simulink per l'esecuzione deterministica nativa in ambiente Linux.
+---
+
+<div class="row mt-5">
+  
+  <div class="col-md-8">
+    <h3 class="mb-4">Obiettivo del progetto</h3>
+    <p class="text-justify">
+      L'obiettivo di questo progetto è la progettazione e implementazione di un'architettura di validazione <strong>Software-in-the-Loop (SIL)</strong> rigorosa. Il focus è stato colmare il divario tra la prototipazione algoritmica ad alto livello e lo sviluppo di software <em>production-ready</em> per sistemi embedded, estraendo un controllore LQG (Linear Quadratic Gaussian) dal motore di calcolo proprietario e rendendolo totalmente indipendente.
+    </p>
+
+    <h3 class="mt-5 mb-4">Metodologia e tecnologie</h3>
+    <p>Per certificare l'algoritmo al di fuori dell'ambiente di simulazione, ho sviluppato una pipeline di test in C puro operante su ambiente Linux nativo (WSL). Il processo si articola in:</p>
+    
+    <ul class="list-group list-group-flush mb-4">
+      <li class="list-group-item bg-transparent border-0 pl-0"><i class="fas fa-check-circle text-primary mr-2"></i> <strong>Code Generation & Refactoring:</strong> Estrazione del codice C/C++ tramite Simulink Coder ed eliminazione delle dipendenze proprietarie (es. MAT-file logging).</li>
+      <li class="list-group-item bg-transparent border-0 pl-0"><i class="fas fa-check-circle text-primary mr-2"></i> <strong>Compilazione Nativa:</strong> Costruzione del binario eseguibile tramite compiler GCC, gestendo esplicitamente l'inclusione di header RTW e librerie matematiche standard.</li>
+      <li class="list-group-item bg-transparent border-0 pl-0"><i class="fas fa-check-circle text-primary mr-2"></i> <strong>Data Injection & Certificazione:</strong> Validazione dell'assenza di errori di discretizzazione tramite l'iniezione di dati <em>ground-truth</em> in anello aperto, certificando una sovrapposizione perfetta tra solver fixed-step e codice C.</li>
+    </ul>
+
+    <h3 class="mt-5 mb-4">Applicazioni pratiche</h3>
+    <p class="text-justify">
+    Questo livello di validazione è lo standard industriale per il testing di algoritmi GNC (Guidance, Navigation, and Control) e logiche automotive prima del deployment su architetture hardware dedicate (HIL) o microcontrollori di bordo.
+    </p>
+  </div>
+
+  <div class="col-md-4 mt-4 mt-md-0 text-center">
+    
+    <img src="../sil_validation_plot.png" alt="Grafico di sovrapposizione SIL vs Simulink" class="img-fluid rounded shadow-sm mb-5">
+    
+    <div class="card shadow-sm border-0 bg-light">
+      <div class="card-body">
+        <h5 class="card-title mb-4">Risorse del Progetto</h5>
+        <a href="https://github.com/DanieleDiGiamberardino/LQG_SIL_Validation.git" class="btn btn-primary btn-block mb-3" target="_blank">
+          <i class="fab fa-github mr-2"></i> Repository GitHub
+        </a>
+        <a href="../sil_validation_plot.png" class="btn btn-outline-primary btn-block" target="_blank">
+          <i class="fas fa-chart-line mr-2"></i> Report Dati (CSV/Plot)
+        </a>
+      </div>
+    </div>
+
+  </div>
+</div>
