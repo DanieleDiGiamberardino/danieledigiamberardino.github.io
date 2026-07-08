@@ -22,7 +22,6 @@ description: Sviluppo di un framework di validazione SIL, disaccoppiando il codi
       <li class="list-group-item bg-transparent border-0 pl-0"><i class="fas fa-check-circle text-primary mr-2"></i> <strong>Compilazione Nativa:</strong> Costruzione del binario eseguibile tramite compiler GCC, gestendo esplicitamente l'inclusione di header RTW e librerie matematiche standard.</li>
       <li class="list-group-item bg-transparent border-0 pl-0"><i class="fas fa-check-circle text-primary mr-2"></i> <strong>Data Injection & Certificazione:</strong> Validazione dell'assenza di errori di discretizzazione tramite l'iniezione di dati <em>ground-truth</em> in anello aperto, certificando una sovrapposizione perfetta tra solver fixed-step e codice C.</li>
     </ul>
-    </p>
   </div>
 
   <div class="col-md-4 mt-4 mt-md-0 text-center">
