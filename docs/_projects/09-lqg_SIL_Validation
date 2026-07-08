@@ -39,8 +39,8 @@ description: Sviluppo di un framework di validazione SIL, disaccoppiando il codi
         <a href="https://github.com/DanieleDiGiamberardino/LQG_SIL_Validation.git" class="btn btn-primary btn-block mb-3" target="_blank">
           <i class="fab fa-github mr-2"></i> Repository GitHub
         </a>
-        <a href="../sil_validation_plot.png" class="btn btn-outline-primary btn-block" target="_blank">
-          <i class="fas fa-chart-line mr-2"></i> Report Dati (CSV/Plot)
+        <a href="https://github.com/DanieleDiGiamberardino/LQG_SIL_Validation/blob/main/README.md" class="btn btn-outline-primary btn-block" target="_blank">
+          <i class="fas fa-chart-line mr-2"></i> Report & Risultati
         </a>
       </div>
     </div>
