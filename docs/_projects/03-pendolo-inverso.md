@@ -51,11 +51,11 @@ description: Progettazione e implementazione fisica di un sistema di controllo a
         </ul>
       </div>
     </div>
-        <!-- Sezione Presentazione aggiunta qui -->
-    <div class="mt-5">
-      <a href="../CA.pptx" class="btn btn-primary" download>
-        <i class="fas fa-file-powerpoint mr-2"></i> Scarica la Presentazione (PPTX)
-      </a>
-    </div>
+    <div class="card shadow-sm border-0 bg-light">
+  <div class="card-body">
+    <h5 class="card-title mb-4">Documentazione</h5>
+    <a href="../CA.pptx" class="btn btn-outline-primary btn-block" target="_blank">
+      <i class="fas fa-file-powerpoint mr-2"></i> Presentazione
+    </a>
   </div>
 </div>
