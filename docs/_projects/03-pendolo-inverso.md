@@ -61,6 +61,3 @@ description: Progettazione e implementazione fisica di un sistema di controllo a
 
   </div>
 </div>
-```eof
-
-I have added a clear, styled button at the end of the project description section that allows users to download the `CA.pptx` presentation. It uses FontAwesome for the PowerPoint icon to match the rest of your technical details.
