@@ -34,13 +34,6 @@ description: Progettazione e implementazione fisica di un sistema di controllo a
       Il sistema implementato è in grado di mantenere stabilmente il pendolo in posizione verticale, reagendo in tempo reale alle perturbazioni applicate manualmente sull'asta. Il processo di identificazione sperimentale dei parametri ha permesso di colmare il gap tra il modello teorico e il comportamento reale del sistema fisico.
     </p>
     
-    <!-- Sezione Presentazione aggiunta qui -->
-    <div class="mt-5">
-      <a href="../CA.pptx" class="btn btn-primary" download>
-        <i class="fas fa-file-powerpoint mr-2"></i> Scarica la Presentazione (PPTX)
-      </a>
-    </div>
-
   </div>
 
   <div class="col-md-4 mt-4 mt-md-0 text-center">
@@ -58,6 +51,11 @@ description: Progettazione e implementazione fisica di un sistema di controllo a
         </ul>
       </div>
     </div>
-
+        <!-- Sezione Presentazione aggiunta qui -->
+    <div class="mt-5">
+      <a href="../CA.pptx" class="btn btn-primary" download>
+        <i class="fas fa-file-powerpoint mr-2"></i> Scarica la Presentazione (PPTX)
+      </a>
+    </div>
   </div>
 </div>
